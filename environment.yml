@@ -1,6 +1,7 @@
 name: SHARPEMind
 channels:
   - defaults
+  - pytorch
 dependencies:
   - pytorch
   - cpuonly
